@@ -1,3 +1,3 @@
 # Demo
 This is my first project
-Athor - Jay Wagh
+Author - Jay Wagh
